@@ -8,11 +8,11 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "زيرو تو"
+      "value": "رايزل جورج"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
-     "value": "•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n مرحبا بك في بوت لايت \n•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n\n* لعرض الاوامر اكتب .اوامر* \n*صنع بواسطة:لايت*\nالمطور : wa.me/971553527240 \n الدعم: https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX",
+     "value": "•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n مرحبا بك في بوت رايزل \n•.•:•.•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•:•\n\n* لعرض الاوامر اكتب .اوامر* \n*صنع بواسطة:رايزل*\nالمطور : wa.me/967770500831 \n الدعم: https://chat.whatsapp.com/Fld2cn1jPaT6yAyPa1jjv2",
      "required" :false
     },
    "THUMB_IMAGE": {
@@ -55,7 +55,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "971553527240"
+       "value": "967770500831,994402288555"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit\nhttps://replit.com/@SuhailTechInfo/Secktor-Md "
@@ -89,7 +89,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "; 𝗭𝗘𝗥𝗢_𝗧𝗪𝗢_𝗕𝗢𝗧/+971553527240",
+     "value": ";سورس رايزل",
      "required": false 
   }
 },
